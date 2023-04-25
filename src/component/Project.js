@@ -24,7 +24,7 @@ const Project = () => {
                   <br/>
                       <div>
                   <Button>Live</Button> {" "}{" "}
-                   <Button>Source Code</Button>}
+                   <Button>Source Code</Button>
                   </div>
         </div>
 
